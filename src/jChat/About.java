@@ -49,7 +49,7 @@ public class About extends javax.swing.JDialog {
         this.setLocationRelativeTo(parent);
         setVisible(true);
         setPreferredSize(new Dimension(510,385));
-
+        System.out.println("priebas");
         setResizable(false);
     }
 
